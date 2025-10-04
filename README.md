@@ -1,43 +1,37 @@
-# 🚀 Primeiros Passos com Cypress
+# 🧪 Primeiros Passos com Cypress e BDD
 
-Este repositório contém meus primeiros testes automatizados utilizando **Cypress**, aplicados ao projeto **Real World App**.
+📌 Este repositório reúne meus primeiros estudos em **QA Automation** com foco em **Cypress (E2E)** e **BDD com Gherkin**.
 
----
-
-## ✅ Exercício 1 – Testes E2E Real World App  
-
-Implementação de 4 cenários principais de teste:
-
-- 🔐 Login com dados válidos
-- ❌ Login com dados inválidos
-- 📝 Cadastro com dados válidos
-- ⚠️ Cadastro com campos obrigatórios faltando
-
-> Todos os testes foram escritos em português para facilitar o entendimento e manter o foco no aprendizado.
+Organizei os exercícios em **projetos separados**, cada um com seu próprio README e contexto.
 
 ---
 
-## 🔍 Código fonte do exercício
+## 📂 Projetos incluídos
 
-📄 Acesse o arquivo com os testes diretamente aqui:  
-👉 [`main.spec.cy.js`](./cypress/e2e/main.spec.cy.js)
+### 🔹 [projeto-e2e-realworld](./projeto-e2e-realworld)
+Automação E2E com **Cypress** no projeto *Real World App*.
 
----
+- Testes de Login e Cadastro
+- Escritos em JavaScript
+- Execução no Cypress
 
-## 🛠️ Tecnologias utilizadas
-
-- [Cypress](https://www.cypress.io/)
-- JavaScript
-- Visual Studio Code
+📝 [Leia o README detalhado](./projeto-e2e-realworld/README.md)
 
 ---
 
-## 📚 Objetivo do projeto
+### 🔹 [projeto-bdd-gherkin](./projeto-bdd-gherkin)
+Modelagem de cenários em **Gherkin (BDD)** para a funcionalidade de **Login**.
 
-Este exercício faz parte da minha formação em QA Automation com Cypress.  
-A proposta é treinar a criação de **testes e2e (end-to-end)** com foco em usabilidade real, cobrindo fluxos críticos do sistema.
+- Cenários escritos antes da automação
+- Linguagem natural para clareza e comunicação entre times
+- Foco em estrutura e boas práticas
+
+📝 [Leia o README detalhado](./projeto-bdd-gherkin/README.md)
 
 ---
+
+🧠 *Objetivo:* manter os estudos organizados, mostrando evolução e clareza em cada etapa.
+
 
 ## 🙋‍♂️ Autor
 
