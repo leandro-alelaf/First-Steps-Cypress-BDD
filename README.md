@@ -1,28 +1,43 @@
-🧪 First Steps with Cypress and BDD  
+# 🧪 First Steps with Cypress and BDD
+
 📌 This repository gathers my first studies in **QA Automation**, focusing on **Cypress (E2E)** and **BDD with Gherkin**.
 
-I’ve organized the exercises into **separate projects**, each with its own README and context.
+I’ve organized the exercises into **separate projects**, each with its own README and context — showing my learning progress and structure.
 
-📂 Included Projects  
-🔹 **project-e2e-realworld**  
-E2E automation with **Cypress** in the **Real World App** project.
+---
 
-- Login and Registration tests  
-- Written in **JavaScript**  
-- Executed with **Cypress**  
-📝 Read the detailed README
+## 📂 Included Projects
 
-🔹 **project-bdd-gherkin**  
-Scenario modeling in **Gherkin (BDD)** for the **Login** feature.
+### 🔹 **project-e2e-realworld**
+E2E automation using **Cypress** on the **Real World App** project.
 
-- Scenarios written before automation  
-- Natural language for clarity and team communication  
-- Focused on structure and best practices  
-📝 Read the detailed README
+**Features covered:**
+- 🔐 Login and Registration tests  
+- 💻 Written in **JavaScript**  
+- ⚙️ Executed with **Cypress**
 
-🧠 **Goal:** Keep studies organized, showing evolution and clarity at each stage.
+📘 [Read the detailed README](#)
 
-🙋‍♂️ **Author**  
+---
+
+### 🔹 **project-bdd-gherkin**
+Scenario modeling with **Gherkin (BDD)** for the **Login** feature.
+
+**Highlights:**
+- 🧾 Scenarios written **before automation**
+- 💬 Natural language for clarity and team communication
+- 🧱 Focus on structure and best practices
+
+📘 [Read the detailed README](#)
+
+---
+
+## 🧠 Goal
+Keep my studies **organized**, showing **evolution**, **clarity**, and **good practices** at each stage.
+
+---
+
+## 🙋‍♂️ Author
 **Leandro Alelaf Rocha**  
 📍 Buenos Aires, Argentina  
-📫 [LinkedIn](https://www.linkedin.com/in/leandro-alelaf-qa/)
+🔗 [LinkedIn](h)
