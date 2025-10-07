@@ -17,6 +17,7 @@ Feature: login
     When ele clica no link "Esqueci minha senha"
     And insere seu email registrado
     And clica no botão para enviar o link de recuperação
-    Then ele deve ver uma mensagem indicando que um email de recuperação foi enviado
+    Then ele deve ver uma mensagem indicando que um email de recuperação foi enviado 
+    And ele deve receber um email com instruções para redefinir sua senha
 
 
